@@ -1,0 +1,7 @@
+<resources>
+  <string name="app_name">AnimationTesting</string>
+  <string name="title">Stephen Curry</string>
+  <string name="subtitle">NBA Golden State Warriors</string>
+  <string name="description">Wardell Stephen Curry II is an American professional basketball player for the Golden State Warriors of the National Basketball Association (NBA). Many players and analysts have called him the greatest shooter in NBA history.</string>
+  <string name="background_image_description">basket</string>
+</resources>
